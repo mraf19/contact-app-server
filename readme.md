@@ -1,21 +1,24 @@
 # Pre-requisites
 
 - Install [Node.js](https://nodejs.org/en/)
+- Install [MySQL](https://www.apachefriends.org/download.html)
 
 # Getting started
 
 - Clone the repository
 
 ```
-git clone  <git lab template url> <project_name>
+git clone  https://github.com/mraf19/contact-app-server
 ```
 
 - Install dependencies
 
 ```
-cd <project_name>
+cd contact-app-server
 npm install
 ```
+
+- Make sure you have a contact database on your MySQL
 
 - Build and run the project
 
